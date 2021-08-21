@@ -3,8 +3,8 @@ So, as we are using RSA encryption algorithm, it is asymmetric cryptography algo
 
 Generating Public Key and Private Key:
 
-Generating Public Key: Select two prime numbers. Suppose P and Q. Now First part of the Public key: n = P*Q. We also need a small exponent say e: But e Must be
-
+Generating Public Key: Select two prime numbers. Suppose P and Q. Now First part of the Public key: n = P*Q. We also need a small exponent say e:
+But e Must be
 An integer.
 Not be a factor of n.
 1 < e < Φ(n) [Φ(n) is discussed below], Our Public Key is made of n and e
